@@ -1,15 +1,13 @@
-# Breakfast
-* scrambled eggs
-* coffee
-* bacon
+# Reasons I love Pavchi
 
-# Lunch
-## Ham Sandwich
-## Caesar Salad
+# Reasons
+## Gushki
+## Pavchi gotvi
+## Pavchi e mekichuk
 
 <!SLIDE>
-![a picture of my lunch](ham-sandwich.jpg)
+![a picture of my Pavchi](pavchi.jpg)
 
-# Dinner
-> "To eat is to live." -Anon.
-<!VIDEO u1zgFlCw8Aw>
+# Pavchi, obicham te!
+> "To live is to gushki." -Anon.
+<!VIDEO FhGYaeJCn7Y>
