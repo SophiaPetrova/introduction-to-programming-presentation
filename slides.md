@@ -419,11 +419,11 @@ PS: More information about GitHub pages you can find here: https://pages.github.
 #### CSS
 
 * http://www.csszengarden.com/
-* http://flukeout.github.io/ 
 * http://book.mixu.net/css/index.html
 * https://yoksel.github.io/flex-cheatsheet/
 * http://howtocenterincss.com/
 * http://cssreference.io/
+* https://flukeout.github.io/
 
 # And even more resources...
 
@@ -461,4 +461,6 @@ https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
 #### System administration
 
 * https://sysadmin.it-landscape.info/
+
+# Keep Coding!
 
