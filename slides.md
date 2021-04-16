@@ -14,10 +14,10 @@
 # Your expectations
 
 # What are we going to create?
-![finished-website](finished-website.jpg)
+![introduction](7.png)
 
 # Who am I?
-![me](me.jpg)
+![me](me.JPG)
 
 # Who am I?
 ![me](me-with-people.jpg)
