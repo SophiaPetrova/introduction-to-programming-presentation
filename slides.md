@@ -1,8 +1,7 @@
 # Introduction to Programming
 
 # Welcome!
-![welcome](welcome.gif)
-
+![img](http://gph.is/162Z5Ba)
 
 # Reasons
 * Gushki
