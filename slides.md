@@ -1,4 +1,8 @@
-# Reasons I love Pavchi
+# Introduction to Programming
+
+# Welcome!
+![welcome](welcome.gif)
+
 
 # Reasons
 * Gushki
