@@ -81,9 +81,9 @@ https://blockly.games/maze
 
 ![different-languages](different-languages.jpg)
 
-# Web-development
+# Web development
 
-# Web-development Dictionary
+# Web development Dictionary
 
 * Web Server = A Web server is a computer system that hosts websites
 * Client = The Browser
@@ -102,7 +102,7 @@ https://blockly.games/maze
 * Dynamic - Shablons, filled with data from the User interface, there may be interaction with the user. Needs logic with collects and aggregates the data if needed (example: a CMS)
 * What we are going to do today falls in the first category
 
-# A great resource for a start in web-development!
+# A great resource for a start in web development!
 
 #### https://dusk.geo.orst.edu/gis/Google_Book_20Things.pdf
 
