@@ -4,39 +4,61 @@
 <iframe src="https://giphy.com/embed/UtzyBJ9trryNO4R3Ee" width="480" height="416" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 # Agenda
-* Welcome! (14:00-14:05)
-* Introduction round (14:05-14:15)
-* Introduction to Programming (14:15-15:00)
-* Hands on HTML & CSS (15:00-15:30)
-* Q&A (15:30-15:50)
-* Resources (15:50-16:00)
-
-# Your expectations
+* Introduction round
+* Programming in Theory
+* Programming in Practice
+* Q&A
+* Resources
 
 # What are we going to create?
 ![introduction](7.png)
 
 # Who am I?
+
+<!SLIDE>
+&nbsp;
 ![me](me.JPG)
 
-# Who am I?
+<!SLIDE>
+&nbsp;
 ![me](me-with-people.jpg)
 
-# Who am I?
+<!SLIDE>
+&nbsp;
 ![me-free-time](me-free-time.jpg)
 
-# Who am I?
+<!SLIDE>
+&nbsp;
 ![me-cycling](me-cycling.jpg)
 
-# Projects I have worked on
+# A project I have worked on
 <iframe src="https://player.vimeo.com/video/472316891" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/472316891">UNDER PRESSURE by Henrike Iglesias - Trailer</a></p>
 
-# Who are you?
-* What's your name?
-* A funny fact about you?
+# Things that are good to have in mind
 
-<iframe src="https://giphy.com/embed/5L57f5fI3f2716NaJ3" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<!SLIDE>
+&nbsp;
+&nbsp;
+![states-of-a-programmer](states-of-a-programmer.png)
+
+<!SLIDE>
+![google-programmer](google-programmer.png)
+
+
+<!SLIDE>
+![it-happens](it-happens.png)
+
+<!SLIDE>
+&nbsp;
+![works-doesnt-work](works-doesnt-wok.jpeg)
+
+# Things that are good to have in mind
+
+* Mistakes = Learning!
+* Not knowing stuff is normal, the pros spend half their day googling for solutions
+* Start with small steps, iterate over them and upgrade on every iteration
+* Don't Panic!
 
 # What is programming
 
@@ -61,10 +83,12 @@ https://blockly.games/maze
 
 # What is code?
 * Code is text written in a programming language
-* When we write code, we communicate
 * Sequence of commands and data
+* When we write code, we communicate
 
-# Different programming languages
+![pc-vs-human](pc_vs_human.jpg)
+
+# Some of the programming languages
 
 ![uses-of-programming-languages](uses-of-programming-languages.jpg)
 
@@ -77,8 +101,6 @@ https://blockly.games/maze
 * Application = A type of software that enables the user to perform different tasks
 * Different types of applications exist (web apps, mobile apps...)
 
-# What language do I need for my type of app?
-
 ![different-languages](different-languages.jpg)
 
 # Web development
@@ -87,14 +109,13 @@ https://blockly.games/maze
 
 * Web Server = A Web server is a computer system that hosts websites
 * Client = The Browser
-* Hosting = A place where you store all the files that make up your website and run them
 * Domain name = Website's address on the world wide web
 * User Interface (UI) =  The screens and interactive touchpoints that make up a website or an app
 * User eXperience (UX) = All about providing a smooth, user-friendly experience for the end user as they navigate around a website or an app
 
-# Client <-> Server communication
-
 ![client-server](client-server.png)
+
+#### A great resource to learn more: https://dusk.geo.orst.edu/gis/Google_Book_20Things.pdf
 
 # Types of websites
 
@@ -102,44 +123,13 @@ https://blockly.games/maze
 * Dynamic - Shablons, filled with data from the User interface, there may be interaction with the user. Needs logic with collects and aggregates the data if needed (example: a CMS)
 * What we are going to do today falls in the first category
 
-# A great resource for a start in web development!
-
-#### https://dusk.geo.orst.edu/gis/Google_Book_20Things.pdf
-
-![web-book](web-book.jpg)
-
-# Things that are good to have in mind
-
-![states-of-a-programmer](states-of-a-programmer.png)
-
-# Things that are good to have in mind
-
-![google-programmer](google-programmer.png)
-
-
-# Things that are good to have in mind
-
-![it-happens](it-happens.png)
-
-# Things that are good to have in mind
-
-![works-doesnt-work](works-doesnt-wok.jpeg)
-
-# Things that are good to have in mind
-
-* Mistakes = Learning!
-* Not knowing stuff is normal, the pros spend half their day googling for solutions
-* Start with small steps, iterate over them and upgrade on every iteration
-* Don't Panic!
-
 # In HTML we trust!
 
 # Text documents VS text editors
 
 * Programs that are designed to edit plain text
+* Word documents are not text files! (you can think of Word for text is like Photoshop for an image)
 * Some text editors offer additional help features such as automatically coloring the various special commands
-* Word documents are not text files!
-* You can think of Word for text is like Photoshop for an image
 
 # How to make file extensions visible if they are not
 
@@ -148,10 +138,11 @@ https://blockly.games/maze
 
 ![file-extensions](file-extensions.gif)
 
-# The basic building blocks of the web
+# The
 
-* HTML
-* CSS
+* HTML - the structure of the document
+* CSS - the presentation of the document
+* JavaScript - adds sophisticated functionality
 
 ![html-css](html-css-example.jpg)
 
@@ -209,7 +200,7 @@ Hello <i>World</i>!
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Opening tag: <i>
-Content: Hello world!
+Content: world
 Closing tag: </i>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -250,25 +241,17 @@ My name is Sophia!
 # Pages, Like People, Have a Head and a Body
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ .html
-<html>
-  <head>
-    <!-- Important invisible details will go here! -->
-  </head>
-  <body>
-    Visible Content
-  </body>
-</html>
+<head>
+  <!-- Important invisible details will go here! -->
+</head>
+<body>
+  Visible Content
+</body>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # The Head
 #### Contains information that is not displayed directly but influences the page
 #### Examples:
-* What language or character set you're using:
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~ .html
-<meta charset="utf-8">
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 * What the page title should be:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ .html
@@ -365,7 +348,7 @@ My name is Sophia!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ .html
 p {
   padding: 10px;
-  background-color: papayaWhip;
+  background-color: #ffefd5;
 }
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -377,7 +360,7 @@ p {
     <style type="text/css" media="screen">
       p {
         padding: 10px;
-        background-color: papayaWhip;
+        background-color: #ffefd5;
       }
     </style>
   </head>
@@ -397,9 +380,13 @@ p {
 * Create a repository in GitHub: https://github.com/new
 * name your repository: <strong>yourgithubusername</strong>.github.io
 
-![introduction](8.png)
+![repo](repo.png)
 
 PS: More information about GitHub pages you can find here: https://pages.github.com/
+
+# Share in the chat and with friends the result
+
+<iframe src="https://giphy.com/embed/kyLYXonQYYfwYDIeZl" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 # Q&A
 
