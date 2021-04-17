@@ -149,7 +149,7 @@ https://blockly.games/maze
 # HTML
 
 * Not a programming language
-* Markup language for creating Web pages
+* Markdown language for creating Web pages
 * Tells browsers how to lay out and present content on a web page
 * Consists of a series of elements
 * Elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
