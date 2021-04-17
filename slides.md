@@ -19,13 +19,13 @@
 &nbsp;
 ![me](me.JPG)
 
-<!SLIDE>
-&nbsp;
-![me](me-with-people.jpg)
-
 # A project I have worked on
 <iframe src="https://player.vimeo.com/video/472316891" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/472316891">UNDER PRESSURE by Henrike Iglesias - Trailer</a></p>
+
+<!SLIDE>
+&nbsp;
+![me](me-with-people.jpg)
 
 <!SLIDE>
 &nbsp;
@@ -90,11 +90,7 @@ https://blockly.games/maze
 
 # Some of the programming languages
 
-![uses-of-programming-languages](uses-of-programming-languages.jpg)
-
-# Which programming language shall I learn
-
-![which-programming-language](which-programming-language.png)
+![uses-of-programming-languages](prog_languages.jpg)
 
 # Different types of applications
 
@@ -102,6 +98,10 @@ https://blockly.games/maze
 * Different types of applications exist (web apps, mobile apps...)
 
 ![different-languages](different-languages.jpg)
+
+# Which programming language shall I learn
+
+![which-programming-language](which-programming-language.png)
 
 # Web development
 
@@ -129,7 +129,7 @@ https://blockly.games/maze
 
 * Programs that are designed to edit plain text
 * Word documents are not text files! (you can think of Word for text is like Photoshop for an image)
-* Some text editors offer additional help features such as automatically coloring the various special commands
+* Some text editors offer additional helpful features such as automatically coloring the various special commands
 
 # How to make file extensions visible if they are not
 
@@ -172,7 +172,7 @@ https://blockly.games/maze
 * Fire up your text editor
 * Create a HTML document
 * Type "Hello World" within the HTML document you just created
-* Save the file some place you'll be able to find easily, like your Desktop
+* Save the file someplace you'll be able to find easily, like your Desktop
 
 ![hello-world-file](1.png)
 
@@ -206,7 +206,7 @@ Closing tag: </i>
 
 #### All these things combined are called an HTML element:
 
-# Let's introduce ourselfs
+# Let's introduce ourselves
 
 * On a new line introduce yourself
 
@@ -286,7 +286,7 @@ My name is Sophia!
 </html>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-# Who likes burocracy...
+# Who likes bureaucracy...
 
 #### One more final step separates us from the valid file
 
@@ -317,7 +317,7 @@ My name is Sophia!
 # Style tags
 
 * We're going to add our CSS inside the <strong>head</strong> tag
-* This is not a good practice and it is preffered that a separate css file is created
+* This is not a good practice and it is preferred that a separate css file is created
 
 #### A style tag looks like this
 
@@ -375,7 +375,7 @@ p {
 
 ![introduction](7.png)
 
-# Let's celebrate with putting it online where everyone can access it!
+# Let's celebrate by putting it online where everyone can access it!
 
 * Create a repository in GitHub: https://github.com/new
 * name your repository: <strong>yourgithubusername</strong>.github.io
@@ -448,6 +448,12 @@ https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
 #### System administration
 
 * https://sysadmin.it-landscape.info/
+
+# Thank you!
+
+##### If you have any questions you can reach me out at sophia5rova@gmail.com
+
+<iframe src="https://giphy.com/embed/Pnh0Lou03fv92J4puZ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 # Keep Coding!
 
