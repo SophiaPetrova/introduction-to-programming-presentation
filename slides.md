@@ -23,6 +23,10 @@
 &nbsp;
 ![me](me-with-people.jpg)
 
+# A project I have worked on
+<iframe src="https://player.vimeo.com/video/472316891" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/472316891">UNDER PRESSURE by Henrike Iglesias - Trailer</a></p>
+
 <!SLIDE>
 &nbsp;
 ![me-free-time](me-free-time.jpg)
@@ -30,10 +34,6 @@
 <!SLIDE>
 &nbsp;
 ![me-cycling](me-cycling.jpg)
-
-# A project I have worked on
-<iframe src="https://player.vimeo.com/video/472316891" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/472316891">UNDER PRESSURE by Henrike Iglesias - Trailer</a></p>
 
 # Things that are good to have in mind
 
@@ -138,7 +138,7 @@ https://blockly.games/maze
 
 ![file-extensions](file-extensions.gif)
 
-# The
+# The building blocks of a web page
 
 * HTML - the structure of the document
 * CSS - the presentation of the document
@@ -394,9 +394,9 @@ PS: More information about GitHub pages you can find here: https://pages.github.
 
 #### Web Development
 
-* https://dusk.geo.orst.edu/gis/Google_Book_20Things.pdf
-* https://www.codecademy.com/catalog/subject/web-development
-* http://www.freecodecamp.com/
+* https://dusk.geo.orst.edu/gis/Google_Book_20Things.pdf - a great booklet on web development
+* https://www.codecademy.com/catalog/subject/web-development - online interactive course
+* http://www.freecodecamp.com/ - like codecademy but absolutely free
 
 #### HTML&CSS
 
@@ -405,12 +405,12 @@ PS: More information about GitHub pages you can find here: https://pages.github.
 
 #### CSS
 
-* http://www.csszengarden.com/
+* http://www.csszengarden.com/ - same HTML, different CSS experiment
 * http://book.mixu.net/css/index.html
-* https://yoksel.github.io/flex-cheatsheet/
+* https://yoksel.github.io/flex-cheatsheet/ - interactuve tutorial
 * http://howtocenterincss.com/
 * http://cssreference.io/
-* https://flukeout.github.io/
+* https://flukeout.github.io/ - a very fun game
 
 # And even more resources...
 
@@ -420,7 +420,7 @@ https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
 
 #### Ruby
 
-* http://ruby.learncodethehardway.org/book/
+* http://ruby.learncodethehardway.org/book/ - Learn Python the hard way as well exists. I greatly recommend!
 * https://try.ruby-lang.org/
 * https://www.rubymonk.com/
 * http://ruby-for-beginners.rubymonstas.org/
@@ -430,7 +430,7 @@ https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
 
 #### Ruby on Rails
 
-* https://www.railstutorial.org/
+* https://www.railstutorial.org/ - the best tutorial about Rails
 * http://railsforzombies.org/
 
 #### GitHub Pages
