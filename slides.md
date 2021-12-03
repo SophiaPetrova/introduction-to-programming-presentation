@@ -411,6 +411,7 @@ PS: More information about GitHub pages you can find here: https://pages.github.
 * http://howtocenterincss.com/
 * http://cssreference.io/
 * https://flukeout.github.io/ - a very fun game
+* https://css-challenges.com/
 
 # And even more resources...
 
