@@ -421,6 +421,7 @@ https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
 
 #### Ruby
 
+* https://www.ruby-lang.org/en/documentation/quickstart/
 * http://ruby.learncodethehardway.org/book/ - Learn Python the hard way as well exists. I greatly recommend!
 * https://try.ruby-lang.org/
 * https://www.rubymonk.com/
